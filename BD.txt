@@ -1,0 +1,9 @@
+create table aluno(
+rm varchar(50),
+nome varchar(50),
+nota1 double,
+nota2 double,
+nota3 double,
+media double,
+faltas double
+);
